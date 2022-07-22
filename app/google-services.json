@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702669323393",
+    "project_id": "hipets-b3e81",
+    "storage_bucket": "hipets-b3e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702669323393:android:304161d11be97b8d502180",
+        "android_client_info": {
+          "package_name": "com.example.hipets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702669323393-g3lelvdqhhtcsfavujeal12cafs23qef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4MF0aQ4oR3HHtFwr5Hq6o7_101qa21yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702669323393-g3lelvdqhhtcsfavujeal12cafs23qef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
