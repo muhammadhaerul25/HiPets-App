@@ -6,4 +6,4 @@ Moreover, this application will also provide knowledge about pet care, facilitie
 
 ## User Interface:
 
-![Login](/documentations/1.%20login.png)
+![Login](/documentations/1.%20login.png) ![Register](documentations/2.%20register.png)
