@@ -6,5 +6,10 @@ Moreover, this application will also provide knowledge about pet care, facilitie
 
 ## User Interface:
 
-![Login](/documentations/1.%20login.png) ![Register](documentations/2.%20register.png) ![Home](documentations/3.%20home.png) ![FindPets](documentations/2.%20findpets.png)
+![Login](/documentations/1.%20login.png) ![Register](documentations/2.%20register.png) 
+![Home](documentations/3.%20home.png) ![FindPets](documentations/4.%20findpets.png)
+![PetDetails](documentations/5.%20petdetails.png) ![PetDetails2](documentations/6.%20petdetails2.png)
+![AdoptPet](documentations/7.%20adoptpet.png) ![GivePets](documentations/8.%20givepets.png)
+![PetCare](documentations/8.%20petcare.png) ![PetInfo](documentations/9.%20petinfo.png)
+![Logout](documentations/10.%20logout.png)
 
